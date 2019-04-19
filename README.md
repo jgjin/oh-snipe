@@ -1,4 +1,4 @@
-# oh-snipe
+# Office hours snipe
 
 `pip install -r requirements.txt`
 then
